@@ -1,0 +1,6 @@
+C:\Users\korisnik\source\repos\buricmariovjezba\buricmariovjezba\bin\Debug\buricmariovjezba.exe.config
+C:\Users\korisnik\source\repos\buricmariovjezba\buricmariovjezba\bin\Debug\buricmariovjezba.exe
+C:\Users\korisnik\source\repos\buricmariovjezba\buricmariovjezba\bin\Debug\buricmariovjezba.pdb
+C:\Users\korisnik\source\repos\buricmariovjezba\buricmariovjezba\obj\Debug\buricmariovjezba.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\buricmariovjezba\buricmariovjezba\obj\Debug\buricmariovjezba.exe
+C:\Users\korisnik\source\repos\buricmariovjezba\buricmariovjezba\obj\Debug\buricmariovjezba.pdb
